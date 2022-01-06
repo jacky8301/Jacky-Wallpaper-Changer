@@ -1,0 +1,57 @@
+2021-12-26 14:49:20,359 [1] INFO  MsgLogger [(null)] - Wallpaper Changer Start!
+2021-12-26 14:49:20,490 [1] INFO  MsgLogger [(null)] - Loading Data....
+2021-12-26 14:49:20,933 [1] ERROR DebugRFLogger [(null)] - catch a exception,error info:  
+System.Exception: 热键注册失败!
+   在 Jack__Wallpaper_Changer.HotKey..ctor(Window win, KeyFlags control, Keys key) 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\HotKeys.cs:行号 72
+   在 Jack__Wallpaper_Changer.MainWindow.RegisterHotKeys() 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\MainWindow.xaml.cs:行号 31
+   在 Jack__Wallpaper_Changer.MainWindow.OnSourceInitialized(EventArgs e) 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\MainWindow.xaml.cs:行号 137
+   在 System.Windows.Window.CreateSourceWindow(Boolean duringShow)
+   在 System.Windows.Window.CreateSourceWindowDuringShow()
+   在 System.Windows.Window.SafeCreateWindowDuringShow()
+   在 System.Windows.Window.ShowHelper(Object booleanBox)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2021-12-26 14:49:32,562 [1] INFO  MsgLogger [(null)] - Wallpaper Changer Start!
+2021-12-26 14:49:32,689 [1] INFO  MsgLogger [(null)] - Loading Data....
+2021-12-26 14:50:20,671 [1] INFO  MsgLogger [(null)] - Wallpaper Changer Start!
+2021-12-26 14:50:20,797 [1] INFO  MsgLogger [(null)] - Loading Data....
+2021-12-26 14:50:27,638 [1] INFO  MsgLogger [(null)] - Saving Data....
+2021-12-26 14:50:27,648 [1] ERROR DebugRFLogger [(null)] - catch a exception,error info:  
+System.ArgumentNullException: 值不能为 null。
+参数名: o
+   在 Newtonsoft.Json.Linq.JToken.FromObjectInternal(Object o, JsonSerializer jsonSerializer)
+   在 Newtonsoft.Json.Linq.JObject.FromObject(Object o, JsonSerializer jsonSerializer)
+   在 Jack__Wallpaper_Changer.ViewModel.WallpaperViewModel.Save() 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\ViewModel\WallpaperViewModel.cs:行号 90
+   在 Jack__Wallpaper_Changer.ViewModel.WallpaperViewModel.ClearAllWallpaper() 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\ViewModel\WallpaperViewModel.cs:行号 116
+   在 Jack__Wallpaper_Changer.MainWindow.BtnRemoveAll_Click(Object sender, RoutedEventArgs e) 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\MainWindow.xaml.cs:行号 172
+   在 System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   在 System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   在 System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   在 System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   在 System.Windows.Controls.Primitives.ButtonBase.OnClick()
+   在 System.Windows.Controls.Button.OnClick()
+   在 System.Windows.Controls.Primitives.ButtonBase.OnMouseLeftButtonUp(MouseButtonEventArgs e)
+   在 System.Windows.UIElement.OnMouseLeftButtonUpThunk(Object sender, MouseButtonEventArgs e)
+   在 System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   在 System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   在 System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   在 System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   在 System.Windows.UIElement.ReRaiseEventAs(DependencyObject sender, RoutedEventArgs args, RoutedEvent newEvent)
+   在 System.Windows.UIElement.OnMouseUpThunk(Object sender, MouseButtonEventArgs e)
+   在 System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   在 System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   在 System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   在 System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   在 System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   在 System.Windows.UIElement.RaiseTrustedEvent(RoutedEventArgs args)
+   在 System.Windows.UIElement.RaiseEvent(RoutedEventArgs args, Boolean trusted)
+   在 System.Windows.Input.InputManager.ProcessStagingArea()
+   在 System.Windows.Input.InputManager.ProcessInput(InputEventArgs input)
+   在 System.Windows.Input.InputProviderSite.ReportInput(InputReport inputReport)
+   在 System.Windows.Interop.HwndMouseInputProvider.ReportInput(IntPtr hwnd, InputMode mode, Int32 timestamp, RawMouseActions actions, Int32 x, Int32 y, Int32 wheel)
+   在 System.Windows.Interop.HwndMouseInputProvider.FilterMessage(IntPtr hwnd, WindowMessage msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   在 System.Windows.Interop.HwndSource.InputFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   在 MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   在 MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)

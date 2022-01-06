@@ -1,0 +1,52 @@
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\log4net.config
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Jacky  Wallpaper Changer.exe.config
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Jacky  Wallpaper Changer.exe
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Jacky  Wallpaper Changer.pdb
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\CommonServiceLocator.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\ControlzEx.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Fluent.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\GalaSoft.MvvmLight.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\GalaSoft.MvvmLight.Extras.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\GalaSoft.MvvmLight.Platform.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\log4net.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\MaterialDesignColors.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\MaterialDesignThemes.Wpf.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Microsoft.WindowsAPICodePack.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Microsoft.Xaml.Behaviors.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Newtonsoft.Json.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\System.Windows.Interactivity.dll
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\ControlzEx.pdb
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\ControlzEx.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Fluent.pdb
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Fluent.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\GalaSoft.MvvmLight.pdb
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\GalaSoft.MvvmLight.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\GalaSoft.MvvmLight.Extras.pdb
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\GalaSoft.MvvmLight.Extras.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\GalaSoft.MvvmLight.Platform.pdb
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\GalaSoft.MvvmLight.Platform.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\log4net.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\MaterialDesignColors.pdb
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\MaterialDesignThemes.Wpf.pdb
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\MaterialDesignThemes.Wpf.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Microsoft.WindowsAPICodePack.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Microsoft.WindowsAPICodePack.Shell.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Microsoft.Xaml.Behaviors.pdb
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Microsoft.Xaml.Behaviors.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\bin\x86\Release\Newtonsoft.Json.xml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\Jack  Wallpaper Changer.csprojAssemblyReference.cache
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\MainWindow.g.cs
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\App.g.cs
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\Jacky  Wallpaper Changer_MarkupCompile.cache
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\Jacky  Wallpaper Changer_MarkupCompile.lref
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\App.baml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\MainWindow.baml
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\Jacky  Wallpaper Changer.g.resources
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\Jacky__Wallpaper_Changer.Properties.Resources.resources
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\Jack  Wallpaper Changer.csproj.GenerateResource.cache
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\Jack  Wallpaper Changer.csproj.CoreCompileInputs.cache
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\Jack  Wallpaper Changer.csproj.CopyComplete
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\Jacky  Wallpaper Changer.exe
+D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\obj\x86\Release\Jacky  Wallpaper Changer.pdb

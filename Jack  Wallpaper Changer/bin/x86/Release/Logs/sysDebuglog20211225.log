@@ -1,0 +1,33 @@
+2021-12-25 21:18:56,888 [1] ERROR DebugRFLogger [(null)] - catch a exception,error info:  
+System.Exception: 热键注册失败!
+   在 Jack__Wallpaper_Changer.HotKey..ctor(Window win, KeyFlags control, Keys key) 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\HotKeys.cs:行号 72
+   在 Jack__Wallpaper_Changer.MainWindow.RegisterHotKeys() 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\MainWindow.xaml.cs:行号 26
+   在 Jack__Wallpaper_Changer.MainWindow.OnSourceInitialized(EventArgs e) 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\MainWindow.xaml.cs:行号 132
+   在 System.Windows.Window.CreateSourceWindow(Boolean duringShow)
+   在 System.Windows.Window.CreateSourceWindowDuringShow()
+   在 System.Windows.Window.SafeCreateWindowDuringShow()
+   在 System.Windows.Window.ShowHelper(Object booleanBox)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2021-12-25 21:19:18,387 [1] ERROR DebugRFLogger [(null)] - catch a exception,error info:  
+System.Exception: 热键注册失败!
+   在 Jack__Wallpaper_Changer.HotKey..ctor(Window win, KeyFlags control, Keys key) 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\HotKeys.cs:行号 72
+   在 Jack__Wallpaper_Changer.MainWindow.RegisterHotKeys() 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\MainWindow.xaml.cs:行号 26
+   在 Jack__Wallpaper_Changer.MainWindow.OnSourceInitialized(EventArgs e) 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\MainWindow.xaml.cs:行号 132
+   在 System.Windows.Window.CreateSourceWindow(Boolean duringShow)
+   在 System.Windows.Window.CreateSourceWindowDuringShow()
+   在 System.Windows.Window.SafeCreateWindowDuringShow()
+   在 System.Windows.Window.ShowHelper(Object booleanBox)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2021-12-25 21:21:20,297 [1] ERROR DebugRFLogger [(null)] - catch a exception,error info:  
+System.Exception: 热键注册失败!
+   在 Jack__Wallpaper_Changer.HotKey..ctor(Window win, KeyFlags control, Keys key) 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\HotKeys.cs:行号 72
+   在 Jack__Wallpaper_Changer.MainWindow.RegisterHotKeys() 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\MainWindow.xaml.cs:行号 26
+   在 Jack__Wallpaper_Changer.MainWindow.OnSourceInitialized(EventArgs e) 位置 D:\MyProject\Jacky Wallpaper Changer\Jack  Wallpaper Changer\MainWindow.xaml.cs:行号 132
+   在 System.Windows.Window.CreateSourceWindow(Boolean duringShow)
+   在 System.Windows.Window.CreateSourceWindowDuringShow()
+   在 System.Windows.Window.SafeCreateWindowDuringShow()
+   在 System.Windows.Window.ShowHelper(Object booleanBox)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
