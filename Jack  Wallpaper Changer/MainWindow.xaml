@@ -19,7 +19,7 @@
             <RowDefinition  Height="Auto"/>
             <RowDefinition  Height="Auto"/>
         </Grid.RowDefinitions>
-        <ListBox Name="lbWallpaper" AllowDrop="True" Drop="LbWallpaper_Drop" SelectedIndex="0" ItemsSource="{Binding WallpaperList,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}">
+        <ListBox Name="lbWallpaper" AllowDrop="True"  MaxWidth="400" Drop="LbWallpaper_Drop" SelectedIndex="0" ItemsSource="{Binding WallpaperList,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}">
         </ListBox>
         <WrapPanel Grid.Row="1" Grid.Column="0">
             <Button Name="btnAddFile"  Margin="5" Click="BtnAddFile_Click">添加文件</Button>

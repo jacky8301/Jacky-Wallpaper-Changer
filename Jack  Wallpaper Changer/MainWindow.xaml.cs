@@ -8,6 +8,7 @@ using System.Windows.Forms;
 using System.ComponentModel;
 using Microsoft.WindowsAPICodePack.Shell;
 using Microsoft.WindowsAPICodePack.Dialogs;
+using Microsoft.Win32;
 
 namespace Jack__Wallpaper_Changer
 {
@@ -119,7 +120,7 @@ namespace Jack__Wallpaper_Changer
         private void BtnAddFile_Click(object sender, RoutedEventArgs e)
         {
             Microsoft.Win32.OpenFileDialog openFileDialog = new Microsoft.Win32.OpenFileDialog();
-            openFileDialog.InitialDirectory = @"I:\Picture\Wallpaper";
+            openFileDialog.InitialDirectory="";
             openFileDialog.Filter = "所有文件|*.*";
             openFileDialog.Multiselect = true;
             if (openFileDialog.ShowDialog() == true)
