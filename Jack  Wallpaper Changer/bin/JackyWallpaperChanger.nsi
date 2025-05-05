@@ -1,9 +1,7 @@
 ; NSIS Script to package the directory
 !define VERSION "1.0.0"
 OutFile "Jacky-Wallpaper-Changer-Setup_${VERSION}.exe"
-InstallDir "$PROGRAMFILES\Jacky Wallpaper Changer"
-
-RequestExecutionLevel admin
+InstallDir "$APPDATA\Jacky Wallpaper Changer"
 
 Section "Install"
     ExecWait "taskkill /F /T /IM JackyWallpaperChanger.exe"
