@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 using Fluent;
-using Jacky__Wallpaper_Changer;
+using Jacky_Wallpaper_Changer;
 
 namespace Jack__Wallpaper_Changer
 {
@@ -11,7 +11,6 @@ namespace Jack__Wallpaper_Changer
     {
         private void Application_DispatcherUnhandledException(object sender, System.Windows.Threading.DispatcherUnhandledExceptionEventArgs e)
         {
-            LogHelper.WriteLog("catch a exception,error info:  ",  e.Exception);
         }
     }
 }

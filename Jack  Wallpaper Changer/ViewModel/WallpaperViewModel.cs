@@ -1,6 +1,6 @@
 ﻿using GalaSoft.MvvmLight;
 using Jack__Wallpaper_Changer.Model;
-using Jacky__Wallpaper_Changer;
+using Jacky_Wallpaper_Changer;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Collections.Generic;
@@ -30,7 +30,6 @@ namespace Jack__Wallpaper_Changer.ViewModel
         }
         public void Load()
         {
-            LogHelper.WriteLog("Loading Data....");
             string jsonFile = Path.Combine(System.Windows.Forms.Application.StartupPath, DATA_FILE_NAME);
             if (File.Exists(jsonFile))
             {
@@ -91,7 +90,6 @@ namespace Jack__Wallpaper_Changer.ViewModel
         }
         public void Save()
         {
-            LogHelper.WriteLog("Saving Data....");
             string file = Path.Combine(System.Windows.Forms.Application.StartupPath, DATA_FILE_NAME);
             string strJson = @"{}";
             JObject root = JObject.Parse(strJson);

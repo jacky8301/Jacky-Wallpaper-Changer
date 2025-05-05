@@ -16,7 +16,6 @@ Section "Install"
     File /r "Release\*.dll"
     File /r "Release\*.exe"
     File "Release\logo.ico"
-    File "Release\app.manifest"
     WriteRegStr HKLM32 "Software\Microsoft\Windows\CurrentVersion\Run" "JackyWallpaperChanger" "$INSTDIR\JackyWallpaperChanger.exe"
     Exec "$INSTDIR\JackyWallpaperChanger.exe"
 SectionEnd

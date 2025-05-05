@@ -1,6 +1,6 @@
 ﻿using Jack__Wallpaper_Changer.Model;
 using Jack__Wallpaper_Changer.ViewModel;
-using Jacky__Wallpaper_Changer;
+using Jacky_Wallpaper_Changer;
 using System;
 using System.IO;
 using System.Windows;
@@ -22,13 +22,11 @@ namespace Jack__Wallpaper_Changer
         private readonly System.Windows.Forms.NotifyIcon notifyIcon = new System.Windows.Forms.NotifyIcon();
         public MainWindow()
         {
-            LogHelper.WriteLog("Wallpaper Changer Start!");
             InitializeComponent();
             InitNotifyIcon();
         }
         ~MainWindow()
         {
-            LogHelper.WriteLog("Wallpaper Changer End!");
         }
         private void RegisterHotKeys()
         {

@@ -160,7 +160,6 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="HotKeys.cs" />
-    <Compile Include="LogHelper.cs" />
     <Compile Include="Model\WallpaperItemModel.cs" />
     <Compile Include="Model\WallpaperSetter.cs" />
     <Compile Include="ViewModel\ViewModelLocator.cs" />
@@ -193,9 +192,6 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="app.manifest" />
-    <None Include="log4net.config">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
